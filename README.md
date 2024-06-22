@@ -13,7 +13,7 @@ PDF Analyzer is a tool to extract and analyze repeatedly asked questions from PD
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/psycho-prince/pdf_analyzer.git
+    git clone https://github.com/psycho-prince/Pdf_analyzer.git
     cd pdf_analyzer
     ```
 
